@@ -1,0 +1,1 @@
+Este es un archivo de prueba para enseñar a utilizar los repositorios de Github. La intencion es demostrar como se utiliza la terminal y como se pueden hacer respaldo en la nube con la linea de comandos.
