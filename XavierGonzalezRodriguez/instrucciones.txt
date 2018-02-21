@@ -1,0 +1,3 @@
+Instrucciones de la Carpeta
+
+Subir en esta carpeta los archivos realizados durante el primer parcial en la clase de PID. Específicamente la práctica de la casa y la práctica de la clase Pelota.
